@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/srccrtl/GIOVAN/GIOVAN/Content/down1(new).png</File>
+    <File>C:/srccrtl/GIOVAN/GIOVAN/Content/left1(new).png</File>
+    <File>C:/srccrtl/GIOVAN/GIOVAN/Content/right1(new).png</File>
+    <File>C:/srccrtl/GIOVAN/GIOVAN/Content/up1(new).png</File>
+    <File>C:/srccrtl/GIOVAN/GIOVAN/Content/Title.spritefont</File>
+    <File>C:/srccrtl/GIOVAN/GIOVAN/Content/Tool - Hooker With a Penis.mp3</File>
+  </SourceFiles>
+</SourceFileCollection>

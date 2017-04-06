@@ -1,0 +1,62 @@
+c:\users\giovanni\documents\visual studio 2017\Projects\GIOVAN\GIOVAN\obj\x86\Debug\GIOVAN.csprojResolveAssemblyReference.cache
+c:\users\giovanni\documents\visual studio 2017\Projects\GIOVAN\GIOVAN\bin\Windows\x86\Debug\Content\down1(new).xnb
+c:\users\giovanni\documents\visual studio 2017\Projects\GIOVAN\GIOVAN\bin\Windows\x86\Debug\Content\left1(new).xnb
+c:\users\giovanni\documents\visual studio 2017\Projects\GIOVAN\GIOVAN\bin\Windows\x86\Debug\Content\right1(new).xnb
+c:\users\giovanni\documents\visual studio 2017\Projects\GIOVAN\GIOVAN\bin\Windows\x86\Debug\Content\up1(new).xnb
+c:\users\giovanni\documents\visual studio 2017\Projects\GIOVAN\GIOVAN\bin\Windows\x86\Debug\GIOVAN.exe
+c:\users\giovanni\documents\visual studio 2017\Projects\GIOVAN\GIOVAN\bin\Windows\x86\Debug\GIOVAN.pdb
+c:\users\giovanni\documents\visual studio 2017\Projects\GIOVAN\GIOVAN\bin\Windows\x86\Debug\MonoGame.Framework.dll
+c:\users\giovanni\documents\visual studio 2017\Projects\GIOVAN\GIOVAN\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+c:\users\giovanni\documents\visual studio 2017\Projects\GIOVAN\GIOVAN\bin\Windows\x86\Debug\SharpDX.dll
+c:\users\giovanni\documents\visual studio 2017\Projects\GIOVAN\GIOVAN\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+c:\users\giovanni\documents\visual studio 2017\Projects\GIOVAN\GIOVAN\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+c:\users\giovanni\documents\visual studio 2017\Projects\GIOVAN\GIOVAN\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+c:\users\giovanni\documents\visual studio 2017\Projects\GIOVAN\GIOVAN\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+c:\users\giovanni\documents\visual studio 2017\Projects\GIOVAN\GIOVAN\bin\Windows\x86\Debug\SharpDX.XInput.dll
+c:\users\giovanni\documents\visual studio 2017\Projects\GIOVAN\GIOVAN\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+c:\users\giovanni\documents\visual studio 2017\Projects\GIOVAN\GIOVAN\bin\Windows\x86\Debug\MonoGame.Framework.xml
+c:\users\giovanni\documents\visual studio 2017\Projects\GIOVAN\GIOVAN\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+c:\users\giovanni\documents\visual studio 2017\Projects\GIOVAN\GIOVAN\bin\Windows\x86\Debug\SharpDX.xml
+c:\users\giovanni\documents\visual studio 2017\Projects\GIOVAN\GIOVAN\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+c:\users\giovanni\documents\visual studio 2017\Projects\GIOVAN\GIOVAN\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+c:\users\giovanni\documents\visual studio 2017\Projects\GIOVAN\GIOVAN\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+c:\users\giovanni\documents\visual studio 2017\Projects\GIOVAN\GIOVAN\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+c:\users\giovanni\documents\visual studio 2017\Projects\GIOVAN\GIOVAN\bin\Windows\x86\Debug\SharpDX.XInput.xml
+c:\users\giovanni\documents\visual studio 2017\Projects\GIOVAN\GIOVAN\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+c:\users\giovanni\documents\visual studio 2017\Projects\GIOVAN\GIOVAN\obj\x86\Debug\GIOVAN.exe
+c:\users\giovanni\documents\visual studio 2017\Projects\GIOVAN\GIOVAN\obj\x86\Debug\GIOVAN.pdb
+c:\users\giovanni\documents\visual studio 2017\Projects\GIOVAN\GIOVAN\bin\Windows\x86\Debug\Content\right1(new).png
+c:\users\giovanni\documents\visual studio 2017\Projects\GIOVAN\GIOVAN\bin\Windows\x86\Debug\Content\Title.xnb
+c:\users\giovanni\documents\visual studio 2017\Projects\GIOVAN\GIOVAN\bin\Windows\x86\Debug\Content\Title.spritefont
+C:\srccrtl\GIOVAN\GIOVAN\bin\Windows\x86\Debug\Content\down1(new).xnb
+C:\srccrtl\GIOVAN\GIOVAN\bin\Windows\x86\Debug\Content\left1(new).xnb
+C:\srccrtl\GIOVAN\GIOVAN\bin\Windows\x86\Debug\Content\right1(new).xnb
+C:\srccrtl\GIOVAN\GIOVAN\bin\Windows\x86\Debug\Content\Title.xnb
+C:\srccrtl\GIOVAN\GIOVAN\bin\Windows\x86\Debug\Content\up1(new).xnb
+C:\srccrtl\GIOVAN\GIOVAN\bin\Windows\x86\Debug\Content\right1(new).png
+C:\srccrtl\GIOVAN\GIOVAN\bin\Windows\x86\Debug\Content\Title.spritefont
+C:\srccrtl\GIOVAN\GIOVAN\bin\Windows\x86\Debug\GIOVAN.exe
+C:\srccrtl\GIOVAN\GIOVAN\bin\Windows\x86\Debug\GIOVAN.pdb
+C:\srccrtl\GIOVAN\GIOVAN\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\srccrtl\GIOVAN\GIOVAN\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\srccrtl\GIOVAN\GIOVAN\bin\Windows\x86\Debug\SharpDX.dll
+C:\srccrtl\GIOVAN\GIOVAN\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\srccrtl\GIOVAN\GIOVAN\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\srccrtl\GIOVAN\GIOVAN\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\srccrtl\GIOVAN\GIOVAN\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\srccrtl\GIOVAN\GIOVAN\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\srccrtl\GIOVAN\GIOVAN\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\srccrtl\GIOVAN\GIOVAN\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\srccrtl\GIOVAN\GIOVAN\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\srccrtl\GIOVAN\GIOVAN\bin\Windows\x86\Debug\SharpDX.xml
+C:\srccrtl\GIOVAN\GIOVAN\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\srccrtl\GIOVAN\GIOVAN\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\srccrtl\GIOVAN\GIOVAN\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\srccrtl\GIOVAN\GIOVAN\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\srccrtl\GIOVAN\GIOVAN\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\srccrtl\GIOVAN\GIOVAN\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\srccrtl\GIOVAN\GIOVAN\obj\x86\Debug\GIOVAN.exe
+C:\srccrtl\GIOVAN\GIOVAN\obj\x86\Debug\GIOVAN.pdb
+C:\srccrtl\GIOVAN\GIOVAN\bin\Windows\x86\Debug\Content\Tool - Hooker With a Penis.wma
+C:\srccrtl\GIOVAN\GIOVAN\bin\Windows\x86\Debug\Content\Tool - Hooker With a Penis.xnb
+C:\srccrtl\GIOVAN\GIOVAN\obj\x86\Debug\GIOVAN.csprojResolveAssemblyReference.cache
